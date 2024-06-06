@@ -1,6 +1,8 @@
 # BCD_ADDER
-BCD adder to generate the output in the form of BCD (Binary Coded Decimal),
+BCD adder to generate the output in the form of BCD (Binary Coded Decimal)
+
 RTL design : Verilog HDL
+
 Validation and verification : SystemVerilog
 
 
